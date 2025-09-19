@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CICD
-=======
 # Docker Learning
 
 This repository contains my notes and exercises as I learn Docker.  
